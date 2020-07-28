@@ -8,7 +8,7 @@ https://github.com/stack07142/BOJ/blob/master/README.md
 
 ## 1. Complexity Predictions & Analysis
 - Time Complexity -> Big O notation
-- Space Complexity
+- Space Complexity  
 [[Presentation]](https://github.com/OH-Seoyoung/Data_Structure_and_Algorithm/blob/master/Presentation/20200712_1.%20Complexity%20Predictions%20%26%20Analysis.pdf)
 
 ## 2. Mathematic #1
@@ -16,7 +16,7 @@ https://github.com/stack07142/BOJ/blob/master/README.md
 - Combination
 - Prime Number -> Eratostheneen seula
 - GCD, LCM -> Euclidean algorithm
-- Matrix
+- Matrix  
 [[Presentation]](https://github.com/OH-Seoyoung/Data_Structure_and_Algorithm/blob/master/Presentation/20200712_2.%20Mathematic%20%231.pdf)
 
 ## 3. Data Structure #1
@@ -24,7 +24,7 @@ https://github.com/stack07142/BOJ/blob/master/README.md
 - Quene
 - Deque
 - Disjoint Set (Union - Find)
-- PriorityQueue
+- PriorityQueue  
 [[Presentation]](https://github.com/OH-Seoyoung/Data_Structure_and_Algorithm/blob/master/Presentation/20200712_3.%20Data_Structure_%231.pdf)
 
 ## 4. Data Structure #2 - Tree
@@ -33,14 +33,14 @@ https://github.com/stack07142/BOJ/blob/master/README.md
 - Fenwick Tree
 - Red Black Tree
 - Treap
-- Binary Search Tree
+- Binary Search Tree  
 [[Presentation]](https://github.com/OH-Seoyoung/Data_Structure_and_Algorithm/blob/master/Presentation/20200719_4.%20Data%20Structure%20%232%20-%20Tree.pdf)
 
 ## 5. Exhaustive Search
 - Brute-Force
 - Backtracking -> N Queens
 - Optimization Problems -> TSP
-- Divide & Conquer -> Binary Search
+- Divide & Conquer -> Binary Search  
 [[Presentation]](https://github.com/OH-Seoyoung/Data_Structure_and_Algorithm/blob/master/Presentation/20200719_5.%20Exhaustive%20Search.pdf)
 
 ## 6. Greedy Algorithm , Bitmask

@@ -3,7 +3,7 @@
 - This study curriculum follows the Roadmap by 'stack07142'.
 
 ## Reference
-[1] [Algorithm Problem Solving Roadmap] stack07142/BOJ
+[1] [Algorithm Problem Solving Roadmap] stack07142/BOJ  
 https://github.com/stack07142/BOJ/blob/master/README.md
 
 ## 1. Complexity Predictions & Analysis

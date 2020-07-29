@@ -1,4 +1,4 @@
-# Data Structure and Algorithm
+# Data Structure and Algorithm (20200710 ~)
 - Presentations in weekly "Data structure &amp; algorithm" study
 - This study curriculum follows the Roadmap by 'stack07142'.
 

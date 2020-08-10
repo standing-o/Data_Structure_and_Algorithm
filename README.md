@@ -50,11 +50,15 @@ https://github.com/stack07142/BOJ/blob/master/README.md
 
 ## 6. Greedy Algorithm , Bitmask
 
+[[Presentation]](https://github.com/OH-Seoyoung/Data_Structure_and_Algorithm/blob/master/Presentation/20200719_6.%20Greedy%20Algorithm%20%2C%20Bitmask.pdf)
+
 ## 7. String
 - Palindrome -> Manacher's Algorithm
 - Huffman coding
 - Trie
 - Suffix Tree
+
+[[Presentation]](https://github.com/OH-Seoyoung/Data_Structure_and_Algorithm/blob/master/Presentation/20200719_7.%20String.pdf)
 
 ## 8. Matching Problems
 - KMP Algorithm
@@ -64,14 +68,20 @@ https://github.com/stack07142/BOJ/blob/master/README.md
 - Z Algorithm
 - Suffix Array
 
+[[Presentation]](https://github.com/OH-Seoyoung/Data_Structure_and_Algorithm/blob/master/Presentation/20200802_8.%20Matching%20Problems.pdf)
+
 ## 9. Dynamic Programming #1
 - 0-1 Knapsack Problem
 - LCS, LIS -> O(N^2), O(NlogN)
 - Subset
 
+[[Presentation]](https://github.com/OH-Seoyoung/Data_Structure_and_Algorithm/blob/master/Presentation/20200809_9.%20Dynamic%20Programming%20%231.pdf)
+
 ## 10. MST (Minimum Spanning Tree)
 - Kruskal's Algorithm
 - Prim's Algorithm
+
+[[Presentation]](https://github.com/OH-Seoyoung/Data_Structure_and_Algorithm/blob/master/Presentation/20200809_10.%20Minimum%20Spanning%20Tree.pdf)
 
 ## 11. Sorting
 - Bubble Sort

@@ -95,6 +95,8 @@ https://github.com/stack07142/BOJ/blob/master/README.md
 - Couting Sort
 - Shell Sort
 
+[[Presentation]](https://github.com/OH-Seoyoung/Data_Structure_and_Algorithm/blob/master/Presentation/20200814_11.%20Sorting.pdf)
+
 ## 12. Graph #1
 - Searching
    - DFS
@@ -106,6 +108,8 @@ https://github.com/stack07142/BOJ/blob/master/README.md
    - SPFA (Shortest Path Faster Algorithm)
 - Graph modeiling
 - Topological Sort
+
+[[Presentation]](https://github.com/OH-Seoyoung/Data_Structure_and_Algorithm/blob/master/Presentation/20200814_12.%20Graph%231.pdf)
 
 ## 13. Geometry
 - Cross / Dot Product

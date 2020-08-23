@@ -121,6 +121,8 @@ https://github.com/stack07142/BOJ/blob/master/README.md
 - Plane / Line Sweeping
 - Rotating Calipers
 
+[[Presentation]](https://github.com/OH-Seoyoung/Data_Structure_and_Algorithm/blob/master/Presentation/20200821_13.%20Geometry.pdf)  
+
 ## 14. Mathematics #2
 - binomial coefficient -> Pascal's triangle
 - Catalan Number
@@ -129,7 +131,9 @@ https://github.com/stack07142/BOJ/blob/master/README.md
 - Gaussian elimination
 - Modular Arithemetic
 - Discrete Mathematics -> The Pigeonhole Principle
-- Stirling numbers of the second kind
+- Stirling numbers of the second kind  
+
+[[Presentation]](https://github.com/OH-Seoyoung/Data_Structure_and_Algorithm/blob/master/Presentation/20200821_14.%20Mathematics%20%232.pdf)  
 
 ## 15. Tree #2
 - LCA (Lowest Common Ancestor)

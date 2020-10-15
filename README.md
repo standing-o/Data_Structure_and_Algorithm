@@ -11,7 +11,7 @@ https://github.com/stack07142/BOJ/blob/master/README.md
 
 ## 1. Complexity Predictions & Analysis
 - Time Complexity -> Big O notation
-- Space Complexity  
+- Space Complexity
 
 [[Presentation]](https://github.com/OH-Seoyoung/Data_Structure_and_Algorithm/blob/master/Presentation/20200712_1.%20Complexity%20Predictions%20%26%20Analysis.pdf)
 

@@ -1,7 +1,7 @@
 # Data Structure and Algorithm
 - Presentations in weekly "Data structure &amp; algorithm" study
 - This study curriculum follows the Roadmap by 'stack07142'.
-- This repo is maintained by 오서영, [강성원](https://github.com/Soric-stu)
+- This repo is maintained by 오서영, [강성원](https://github.com/Soric-stu), 정명지
 - Jul. 10, 2020 ~ Aug. 21, 2020
 
 ## Reference
